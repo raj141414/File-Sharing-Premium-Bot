@@ -8,47 +8,47 @@
   "env": {
       "APP_ID": {
           "description": "Your APP ID From my.telegram.org ",
-          "value": "",
+          "value": "16501053",
           "required": true
       },
       "API_HASH": {
           "description": "Your API Hash From my.telegram.org ",
-          "value": "",
+          "value": "d8c9b01c863dabacc484c2c06cdd0f6e",
           "required": true
       },
       "TG_BOT_TOKEN": {
           "description": "Your Bot Token From @BotFather",
-          "value": "",
+          "value": "6556754160:AAHbrDQ3e9qQmZ5oVOdwb0ZvN2qiXHbJqNM",
           "required": true
       },
       "OWNER": {
           "description":"Add Your username here",
-          "value": "",
+          "value": "BlasterOriginals",
           "required": true
       },
       "OWNER_ID": {
         "description":"Add Your User ID here",
-        "value": "",
+        "value": "5422016608",
         "required": true
       },
       "CHANNEL_ID": {
           "description":"Make a channel (database channel), then make the bot as admin in channel, and it's id",
-          "value": "",
+          "value": "-1001736029601",
           "required": true          
       },
       "FORCE_SUB_CHANNEL": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "",
+        "value": "-1001656111560",
         "required": false
       },
       "DB_URL": {
           "description": "Your Mongo DB Database URL",
-          "value": "",
+          "value": "mongodb+srv://SHELL2:SHELL2@cluster0.bovvmoa.mongodb.net/?retryWrites=true&w=majority",
           "required": true
       },
       "DB_NAME":{ 
           "description":"Your Mongo DB Database Name",
-          "value": "madflixbotz",
+          "value": "Cluster0",
           "required": false
       },
       "START_MESSAGE": {
