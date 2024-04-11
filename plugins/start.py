@@ -104,8 +104,8 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("😊 About Me", callback_data = "about"),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                    InlineKeyboardButton("Main & Backup Channel", callback_data =https://t.me/Blaster_Originals),
+                    InlineKeyboardButton("Movies & Series Channel", url=https://t.me/+WN0pGZlwxBRlYzI1)
                 ]
             ]
         )
