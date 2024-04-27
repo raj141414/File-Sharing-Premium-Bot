@@ -33,7 +33,7 @@ SECONDS = int(os.getenv("SECONDS", "600")) # auto delete in seconds
 
 
 
-PORT = os.environ.get("PORT", "8080")
+PORT = os.environ.get("PORT", "8050")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 
